@@ -53,7 +53,7 @@ The model prioritizes recall to minimize missed booking opportunities.
 
 ## Visualization
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](./images/feature_importance.png)
 
 ---
 
